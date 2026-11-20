@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1050" width="1600" height="1050">
+  <rect width="1600" height="1050" fill="#151515"/>
+  <rect x="1" y="1" width="1598" height="1048" fill="none" stroke="#323232"/>
+  <path d="M778 525h44M800 503v44" stroke="#616161" fill="none"/>
+  <text x="800" y="590" fill="#a3a3a3" font-family="Arial,sans-serif" font-size="20" text-anchor="middle">Yago portrait placeholder</text>
+</svg>
